@@ -1,4 +1,4 @@
-# TACT template project
+# TACT Jetton project
 
 This project has ready to use TACT compiler, typescript + jest with [tact-emulator](https://github.com/tact-lang/tact-emulator), example how to do tests.
 
@@ -24,6 +24,3 @@ To add new test files to contract you should create `*.spec.ts` files similar to
 ## Licence
 
 MIT
-# ton-jetton-template
-# ton-jetton-template
-# ton-jetton-template
