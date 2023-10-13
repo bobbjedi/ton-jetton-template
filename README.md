@@ -1,5 +1,7 @@
 # TACT Jetton project
 
+A simple example of a Jetton contract in the Tact language
+
 This project has ready to use TACT compiler, typescript + jest with [tact-emulator](https://github.com/tact-lang/tact-emulator), example how to do tests.
 
 ```bash
